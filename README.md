@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheEndofTheFrontiers
 - 👀 I’m interested in video games and manga
 - 🌱 I’m currently learning python
-- 📫 How to reach me discord or whatever i use
-- 😄 Pronouns: he/him
+- 📫 How to reach me:discord or whatever i use
+- 😄 Pronouns: she/they
 - ⚡ Fun fact: there no fun facts
 
 <!---
